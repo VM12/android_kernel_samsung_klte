@@ -162,7 +162,6 @@ source "drivers/barcode_emul/Kconfig"
 source "drivers/motor/Kconfig"
 
 source "drivers/sensorhub/Kconfig"
-source "drivers/fingerprint/Kconfig"
 
 source "drivers/felica/Kconfig"
 
